@@ -1,9 +1,6 @@
 <h1 align="center">
-<br>
-  <img src="src/assets/images/logo-interna.svg" alt="GoBarber" width="90">
-<br>
-<br>
-GoBarber
+
+Barber
 </h1>
 
 <p align="center">An app for barber appointment and scheduling.</p>
